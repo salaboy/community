@@ -63,7 +63,7 @@ Additional requirements beyond "initiating":
     the release artifacts. Commercial products with production usage count
     towards this target. This can be documented in something
     [like an ADOPTERS.md file](https://www.google.com/url?q=https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc&sa=D&ust=1597952611892000&usg=AFQjCNFymwghRnNGVqbD0O_01TsfEeto5w).
-- Unit test automation meeting the Knative standards with respect to coverage
+- Unit test automation meeting the Knative standards with respect to coverage (70% + using [codecov](https://app.codecov.io/gh/knative/serving))
   and flakiness / test failures.
 - Provide at least monthly progress reports at the appropriate WG(s). WGs should
   roll these reports up into their TOC reports.
